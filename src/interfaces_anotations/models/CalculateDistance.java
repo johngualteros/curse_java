@@ -1,6 +1,6 @@
 package interfaces_anotations.models;
 
-public interface InterfaceFunctional {
+public interface CalculateDistance {
     //Only got one method
-    public void calculate(int width, int height);
+    public int calculate(int x, int y);
 }

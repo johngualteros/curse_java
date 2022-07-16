@@ -1,2 +1,4 @@
-package interfaces_anotations.models;public @interface ExampleAnnotation {
+package interfaces_anotations.models;
+
+public @interface ExampleAnnotation {
 }

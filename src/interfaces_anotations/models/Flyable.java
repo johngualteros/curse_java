@@ -1,2 +1,5 @@
-package interfaces_anotations.models;public interface Flyable {
+package interfaces_anotations.models;
+
+public interface Flyable {
+    public void fly();
 }

@@ -1,2 +1,5 @@
-package interfaces_anotations;public class Main {
+package interfaces_anotations;
+
+public class Main {
+
 }
